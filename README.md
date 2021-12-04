@@ -1,4 +1,4 @@
-# Template for PowerPoint slides used in UniPD, Department of Mathematics and Computer Science presentations.
+# Template for Department of Mathematics and Computer Science presentations at UniPD
 
 This repository contains a `*.potx` file that is a template for slides used in presentations at the Università degli Studi di Padova.
 Particularly, the logos used are the ones for the Department of Mathematics and Computer Science.
